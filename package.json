@@ -1,0 +1,15 @@
+{
+  "name": "restauranthomepage",
+  "version": "1.0.0",
+  "description": "a home page for a fake restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Snelling",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
