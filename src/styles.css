@@ -1,0 +1,24 @@
+#centerflex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+#flexbx {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    background-color: yellow;
+}
+
+.textAlignment {
+    text-align: center;
+}
+
+#innerContentSizer {
+    padding: 30px 80px 30px 80px;
+}
+
+
