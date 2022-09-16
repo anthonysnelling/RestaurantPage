@@ -1,4 +1,4 @@
-#centerflex {
+.centerflex {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -21,4 +21,9 @@
     padding: 30px 80px 30px 80px;
 }
 
-
+a {
+    all: unset;
+    cursor: pointer;
+    margin-right: 40px;
+    font-size: 24px;
+}

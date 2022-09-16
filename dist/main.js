@@ -1,1 +1,1 @@
-console.log("Hello There"),console.log("general kenobi!");
+document.getElementById("content").appendChild(function(){const e=document.createElement("nav");e.classList.add("centerflex");const t=document.createElement("a");t.href="#",t.textContent="Home",t.onmouseup=function(){console.log("hello beeetch")};const n=document.createElement("a");n.href="#",n.textContent="Menu",n.onmouseup=function(){console.log("beeetch please")};const o=document.createElement("a");return o.href="#",o.textContent="Contact",e.appendChild(t),e.appendChild(n),e.appendChild(o),e}());
